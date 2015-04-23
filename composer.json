@@ -1,5 +1,5 @@
 {
-    "name": "hearstuk/censhare-sdk",
+    "name": "hermzz/tfl-api",
     "require": {
         "guzzlehttp/guzzle": "5.2.0"
     },
