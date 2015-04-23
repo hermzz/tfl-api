@@ -1,0 +1,11 @@
+{
+    "name": "hearstuk/censhare-sdk",
+    "require": {
+        "guzzlehttp/guzzle": "5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
