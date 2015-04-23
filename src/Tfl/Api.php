@@ -28,7 +28,7 @@ class Api
             $url .= '/'.$via;
         }
 
-        $this->get($url);
+        return $this->get($url);
     }
 
     public function get($url, $params = [])
